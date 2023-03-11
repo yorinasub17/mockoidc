@@ -1,4 +1,4 @@
-module github.com/oauth2-proxy/mockoidc
+module github.com/yorinasub17/mockoidc
 
 go 1.16
 
